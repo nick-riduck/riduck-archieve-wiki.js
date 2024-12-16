@@ -2,7 +2,7 @@
 title: 파워
 description: 사이클링 파워
 published: true
-date: 2024-12-11T07:39:47.903Z
+date: 2024-12-16T04:28:54.389Z
 tags: power, cycling
 editor: markdown
 dateCreated: 2024-12-11T04:28:25.390Z
@@ -19,10 +19,10 @@ dateCreated: 2024-12-11T04:28:25.390Z
 파워는 라이더가 페달에 가한 물리적 힘만을 측정하며, 외부 요인에 영향을 받지 않는 가장 객관적인 운동 강도 데이터입니다. 파워 데이터는 실시간으로 제공되어 라이더가 얼마만큼의 운동 강도를 수행하고 있는지 즉시 확인 할 수 있습니다. 
 
 ## 측정법
-자전거에 부착된 다양한 [파워미터]()를 사용하여 측정을 진행합니다.
+자전거에 부착된 다양한 [파워미터](/ko/aerobic/cycling/gear/powermeter)를 사용하여 측정을 진행합니다.
 
 ## 활용
 
-대표적으로 [FTP]() 측정과 그를 기준으로 하여 운동강도를 구분한 [7 zone]()을 이용하여 운동 강도의 설계와 측정이 이뤄집니다.
+대표적으로 [FTP](/ko/aerobic/cycling/term/FTP) 측정과 그를 기준으로 하여 운동강도를 구분한 [7 zone](/ko/aerobic/cycling/term/7_zone)을 이용하여 운동 강도의 설계와 측정이 이뤄집니다.
 또 절대적인 파워 출력과, 이를 체중으로 나눈 W/kg은 라이더의 수준을 측정하는 대표적인 지표가 됩니다.
-그 외로 [CP~CriticalPower~](),나  [W'~WattPrime~](), 또는  [RP~RiduckPower~]() 등의 파워를 사용한 다양한 지표들이 운동 기록 및 라이더의 상태 분석에 사용되고 있습니다. 
+그 외로 [CP~CriticalPower~](/ko/aerobic/cycling/term/CP),나  [W'~WattPrime~](/ko/aerobic/cycling/term/CP), 또는  [RP~RiduckPower~](/ko/aerobic/cycling/term/RP) 등의 파워를 사용한 다양한 지표들이 운동 기록 및 라이더의 상태 분석에 사용되고 있습니다. 
