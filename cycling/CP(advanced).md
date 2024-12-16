@@ -2,7 +2,7 @@
 title: CP (심화 내용)
 description: CP와 W'에 대한 심화 내용
 published: true
-date: 2024-12-16T04:29:59.198Z
+date: 2024-12-16T04:39:29.816Z
 tags: power, cycling, cp, advanced
 editor: markdown
 dateCreated: 2024-12-11T09:00:13.610Z
