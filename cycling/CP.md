@@ -2,7 +2,7 @@
 title: CP (Critical Power)
 description: CP 와 W prime
 published: true
-date: 2024-12-16T04:26:57.554Z
+date: 2024-12-16T04:27:25.978Z
 tags: power, cp, w prime
 editor: markdown
 dateCreated: 2024-12-11T08:07:33.794Z
@@ -21,4 +21,4 @@ CP를 초과하는 강도로 운동할때 사용되는 무산소 에너지의 �
 CP를 초과하는 강도로 운동을 지속하게 되면 결국에는 라이더의 W' 이 고갈되어 어느순간 운동을 더 이상 지속할 수 없게 됩니다.
 
 ## 상세
-[CP(심화)](/ko/aerobic/cycling/term/cp)로 이동
+[CP(심화)](/ko/aerobic/cycling/term/CP_adv)로 이동
