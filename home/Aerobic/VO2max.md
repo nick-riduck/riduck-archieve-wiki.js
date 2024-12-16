@@ -2,7 +2,7 @@
 title: 최대 산소 섭취량(VO2max)
 description: 최대 산소 섭취량(VO2max)
 published: true
-date: 2024-12-12T02:51:07.882Z
+date: 2024-12-16T03:14:23.523Z
 tags: cycling, basic, aerobic, vo2max, running, rowing, swimming, triathlon
 editor: markdown
 dateCreated: 2024-12-12T02:51:06.191Z
