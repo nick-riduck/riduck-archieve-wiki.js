@@ -1,0 +1,1 @@
+# riduck-archieve-wiki.js
