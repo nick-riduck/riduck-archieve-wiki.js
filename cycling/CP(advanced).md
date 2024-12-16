@@ -2,7 +2,7 @@
 title: CP (심화 내용)
 description: CP와 W'에 대한 심화 내용
 published: true
-date: 2024-12-11T09:00:15.345Z
+date: 2024-12-16T04:29:59.198Z
 tags: power, cycling, cp, advanced
 editor: markdown
 dateCreated: 2024-12-11T09:00:13.610Z
@@ -12,7 +12,7 @@ dateCreated: 2024-12-11T09:00:13.610Z
 ## CP
 
 CP는 특정 운동 지속 시간 이상에서 지속 가능한 최대 유산소 강도를 나타냅니다.
-이 강도의 [파워](/ko/cycling/power)는 이론적으로 무기한 지속 가능하다고 간주되지만, 실제로는 피로 축적과 외부 요인으로 제한됩니다.
+이 강도의 [파워](/ko/aerobic/cycling/term/power)는 이론적으로 무기한 지속 가능하다고 간주되지만, 실제로는 피로 축적과 외부 요인으로 제한됩니다.
 
 FTP와 유사한 점이 있고 많이 혼동되지만, CP는 더 수학적으로 정의됩니다. CP는 **파워-지속 시간 관계(Power-Duration Relationship)** 를 기반으로 계산됩니다.
 
@@ -23,7 +23,7 @@ CP를 초과하는 강도로 운동을 지속하게 되면 결국에는 라이�
 
 ## 상세
 
-우리가 유지가능한 파워와 시간에 대한 [그래프]()를 그리게 되면 
+우리가 유지가능한 파워와 시간에 대한 [그래프](/ko/RiduckService/PowerProfile)를 그리게 되면 
 
 ![]()
 이런식으로 로그 함수와 유사한 그래프가 그려지게 됩니다.
