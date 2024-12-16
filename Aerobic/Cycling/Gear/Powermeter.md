@@ -2,7 +2,7 @@
 title: 파워미터
 description: 사이클링 파워미터
 published: true
-date: 2024-12-16T03:13:28.078Z
+date: 2024-12-16T03:20:33.253Z
 tags: power, cycling, powermeter, aerobic
 editor: markdown
 dateCreated: 2024-12-11T07:54:37.294Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-11T07:54:37.294Z
 
 # 파워미터
 
-**파워미터(Power Meter)** 는 사이클링에서 라이더의 [운동 강도(파워)](/ko/aerobic/cycling/term/power) 를 정확히 측정하는 도구로, [심박계]()와 더불어 훈련과 성과 분석에 있어 핵심적인 장비입니다. 
+**파워미터(Power Meter)** 는 사이클링에서 라이더의 [운동 강도(파워)](/ko/aerobic/cycling/term/power) 를 정확히 측정하는 도구로, [심박계](ko/aerobic/gear/heartrate_monitor)와 더불어 훈련과 성과 분석에 있어 핵심적인 장비입니다. 
 
 
 ## 상세
