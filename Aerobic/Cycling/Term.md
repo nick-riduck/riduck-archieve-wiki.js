@@ -2,7 +2,7 @@
 title: FTP(Functional Threshhold Power)
 description: FTP(Functional Threshhold Power)
 published: true
-date: 2024-12-16T03:09:16.174Z
+date: 2024-12-16T03:10:37.389Z
 tags: ftp, tte, power, cycling, aerobic
 editor: markdown
 dateCreated: 2024-12-09T04:58:20.969Z
