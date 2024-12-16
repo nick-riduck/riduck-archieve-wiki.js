@@ -1,9 +1,9 @@
 ---
 title: FTP(Functional Threshhold Power)
-description: Test Document about FTP(Functional Threshhold Power)
+description: FTP(Functional Threshhold Power)
 published: true
-date: 2024-12-11T09:03:38.885Z
-tags: ftp, tte
+date: 2024-12-16T03:09:16.174Z
+tags: ftp, tte, power, cycling, aerobic
 editor: markdown
 dateCreated: 2024-12-09T04:58:20.969Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2024-12-09T04:58:20.969Z
 # FTP
 ## 정의
 FTP란 Functional Threshhold Power(기능적 임계 파워)의 약자로 라이더의 유산소 운동수행 능력을 나타내는 가장 대표적인 수치입니다.
-[특정시간~TTE~](/ko/home/FTP/TTE) 동안 급격하게 지치지 않고 유지할 수 있는 파워를 뜻하며, FTP를 넘어서는 파워를 사용하면 피로가 빠르고 많이 쌓여 오랜시간 유지하기 어렵다는 생리학적 원리를 근간으로, 기량 측정과 트레이닝 구성에 핵심적이고 기초적인 수치가 됩니다.
+[특정시간~TTE~](/ko/Aerobic/Cycling/Term/TTE) 동안 급격하게 지치지 않고 유지할 수 있는 파워를 뜻하며, FTP를 넘어서는 파워를 사용하면 피로가 빠르고 많이 쌓여 오랜시간 유지하기 어렵다는 생리학적 원리를 근간으로, 기량 측정과 트레이닝 구성에 핵심적이고 기초적인 수치가 됩니다.
 ## 측정 방법
 
 ### 전통적인 방법
