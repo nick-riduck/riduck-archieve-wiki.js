@@ -2,7 +2,7 @@
 title: 파워미터
 description: 사이클링 파워미터
 published: true
-date: 2024-12-16T03:20:33.253Z
+date: 2024-12-16T03:20:47.291Z
 tags: power, cycling, powermeter, aerobic
 editor: markdown
 dateCreated: 2024-12-11T07:54:37.294Z
