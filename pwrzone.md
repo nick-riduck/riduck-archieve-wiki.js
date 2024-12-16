@@ -2,8 +2,8 @@
 title: 7 Power Zone(Coggan Power zone)
 description: explain about 7 power zone
 published: true
-date: 2024-12-12T02:16:35.467Z
-tags: ftp, andrew coggan, power, zone
+date: 2024-12-16T04:38:53.529Z
+tags: ftp, andrew coggan, power, zone, cycling, aerobic, lsd, vo2, sst, sweetspot
 editor: markdown
 dateCreated: 2024-12-10T03:13:04.716Z
 ---
