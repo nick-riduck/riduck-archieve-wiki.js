@@ -2,7 +2,7 @@
 title: CP (Critical Power)
 description: CP 와 W prime
 published: true
-date: 2024-12-16T04:27:25.978Z
+date: 2024-12-16T04:41:16.736Z
 tags: power, cp, w prime
 editor: markdown
 dateCreated: 2024-12-11T08:07:33.794Z
