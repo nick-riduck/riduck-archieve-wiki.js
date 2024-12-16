@@ -2,7 +2,7 @@
 title: TTE (Time to Exhuast)
 description: TTE (Time to Exhuast)
 published: true
-date: 2024-12-11T09:07:06.955Z
+date: 2024-12-16T03:10:04.957Z
 tags: ftp, tte, cycling
 editor: markdown
 dateCreated: 2024-12-11T09:07:05.817Z
