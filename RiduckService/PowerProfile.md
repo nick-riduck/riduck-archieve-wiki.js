@@ -2,7 +2,7 @@
 title: 파워프로파일 
 description: 파워커브, PowerCurve, PowerProfile, 파워프로파일
 published: true
-date: 2024-12-12T02:10:06.179Z
+date: 2024-12-17T03:15:42.412Z
 tags: power, basic, riduck, service, powercurve, powerprofile
 editor: markdown
 dateCreated: 2024-12-12T02:01:42.133Z
@@ -21,4 +21,4 @@ dateCreated: 2024-12-12T02:01:42.133Z
 
 그래프 아래의 범례 위에 마우스를 올리거나 누르면, 각 항목에 해당하는 그래프만 별도로 확인할 수 있습니다.
 
-아래의 목록에서는 해당 피크파워가 측정된 활동과 정보, 그리고 어떤 피크파워가 현재 라이덕에서 [FTP](/ko/home/training) 계산을 위해 사용되고 있는지 확인할 수 있습니다.
+아래의 목록에서는 해당 피크파워가 측정된 활동과 정보, 그리고 어떤 피크파워가 현재 라이덕에서 [FTP](/ko/aerobic/cycling/term/FTP) 계산을 위해 사용되고 있는지 확인할 수 있습니다.
