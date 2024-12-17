@@ -1,8 +1,8 @@
 ---
-title: Notice
+title: Develop
 description: notice
 published: true
-date: 2024-12-12T02:12:48.789Z
+date: 2024-12-17T03:15:12.072Z
 tags: develop, private, notice
 editor: markdown
 dateCreated: 2024-12-09T07:36:24.678Z
@@ -21,3 +21,7 @@ dateCreated: 2024-12-09T07:36:24.678Z
 
 ### 5.  레퍼런스 
 그리고 제일 중요한 것은 믿을만한 데이터여야 한다고 생각해요..
+
+## 구조화 규칙
+* 라이덕 서비스(riduckservice), 운동 관련 지식(aerobic)은 구분하여 짓기
+* 경로 설정시 약어가 아닌 경우 전부 소문자 사용
