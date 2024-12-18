@@ -2,7 +2,7 @@
 title: IF(Intensity Factor)
 description: 활동의 강도를 나타내는 IF(Intensity Factor)란?
 published: true
-date: 2024-12-17T09:11:38.597Z
+date: 2024-12-18T01:11:21.065Z
 tags: ftp, power, cycling, basic, aerobic, triathlon, analysis
 editor: markdown
 dateCreated: 2024-12-17T09:11:38.597Z
@@ -11,9 +11,9 @@ dateCreated: 2024-12-17T09:11:38.597Z
 # IF ( Intensity Factor )
 
 운동의 강도를 나타내는 수치로, 숫자가 클수록 높은 강도로 라이딩 했다는 뜻입니다. IF는 운동의 [RP](/ko/aerobic/cycling/term/RP)와 라이더의 [FTP](/ko/aerobic/cycling/term/FTP)를 이용해 계산합니다.
-```
-RP/FTP
-```
+$$
+\text{RP/FTP}
+$$
 
 IF가 1에 가까우면 [FTP](/ko/aerobic/cycling/term/FTP)에 가까운 파워로 라이딩 했다는 의미가 됩니다.
 
