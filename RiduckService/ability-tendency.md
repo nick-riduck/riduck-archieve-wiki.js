@@ -2,7 +2,7 @@
 title: 역량과 성향
 description: 역량과 성향, ability-tendency
 published: true
-date: 2025-02-03T07:08:43.901Z
+date: 2025-02-03T07:08:52.966Z
 tags: cycling, riduck, ability, tendency, sprinter, allrounder, puncher, climber, timetrialist
 editor: markdown
 dateCreated: 2025-02-03T03:21:20.786Z
